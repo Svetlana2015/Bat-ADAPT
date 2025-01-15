@@ -1,2 +1,4 @@
-# Bat-ADAPT
-Creating a chatbot using LLM
+# Adapt'Action Open booster
+As part of the Adapt'Action data challenges initiative, Ecolab, the public innovation laboratory of the Commissariat général au développement durable (CGDD) and the Direction générale de l'énergie et du climat of the Ministère de la Transition écologique et de la Cohésion des territoires, in partnership with ANCT, Météo-France, ADEME, OFB, IGN, Cerema, Etalab and les Interconnectés, and in collaboration with I4CE, the City of Paris and the FTCC, have proposed a 10-month cycle to better understand, know and mobilise ecological transition data to serve your adaptation strategies and actions.
+
+The Open Booster is the third part of this initiative. The aim is to promote 7 digital tools for climate change adaptation. Whether at the idea or POC stage, or industrialised but lacking functionality, the 7 winning tools will benefit from a 3-month support programme to accelerate their development.
